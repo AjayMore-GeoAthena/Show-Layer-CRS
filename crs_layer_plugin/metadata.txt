@@ -1,0 +1,22 @@
+[general]
+name=CRS Layer Label
+qgisMinimumVersion=3.0
+description=Displays the coordinate reference system (CRS/projection) next to each layer name in the Layers panel.
+version=1.0.0
+author=GeoAthena
+email=info@geoathena.com
+
+about=This plugin enhances the QGIS Layers panel by showing the CRS (e.g., EPSG:4326) 
+    next to each layer name. Useful for quickly identifying projections without 
+    opening layer properties. Supports toggling on/off via the Plugins menu.
+
+tracker=https://github.com/AjayMore-GeoAthena/Show_Layer_CRS/issues
+repository=https://github.com/AjayMore-GeoAthena/Show_Layer_CRS
+
+hasProcessingProvider=no
+tags=crs, projection, layers, coordinate reference system, epsg
+homepage=https://github.com/yourname/crs-layer-label
+category=Plugins
+icon=icon.png
+experimental=False
+deprecated=False
