@@ -15,7 +15,7 @@ repository=https://github.com/AjayMore-GeoAthena/Show_Layer_CRS
 
 hasProcessingProvider=no
 tags=crs, projection, layers, coordinate reference system, epsg
-homepage=https://github.com/yourname/crs-layer-label
+homepage=https://ajaymore-geoathena.github.io/Show-Layer-CRS/
 category=Plugins
 icon=icon.png
 experimental=False

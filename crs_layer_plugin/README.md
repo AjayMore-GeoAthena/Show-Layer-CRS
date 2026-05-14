@@ -10,7 +10,6 @@ badge next to every layer name in the **Layers panel**.
 | What you get | Detail |
 |---|---|
 | **Instant CRS visibility** | See the projection of every layer at a glance |
-| **Colour-coded badges** | 🔵 Blue = projected CRS · 🟢 Green = geographic CRS · ⚫ Grey = no CRS |
 | **Toggle on/off** | Plugins ▸ CRS Layer Label ▸ Show CRS next to layer names |
 | **Zero config** | Auto-enables on load; restores original delegate on unload |
 | **QGIS 3.x compatible** | Uses only stable PyQGIS / PyQt5 APIs |
